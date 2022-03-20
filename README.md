@@ -18,7 +18,9 @@
   Languages used: JavaScript, CSS, Javascript, WebAssembly
 
   ## Usage
-  ![application in action]()
+![Offline screenshot](https://user-images.githubusercontent.com/91101861/159149192-3f816cae-5cfc-4db1-aad2-66b3c6a717b4.png)
+![Online screenshot](https://user-images.githubusercontent.com/91101861/159149197-bdd8971e-79db-42de-95f2-937e60b31286.png)
+
 
   ## Credits:
   
